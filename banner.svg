@@ -22,7 +22,7 @@
     <text x="560" y="110"><tspan fill="#ff7b72">class</tspan> <tspan fill="#d2a8ff">Chris</tspan> {</text>
     <text x="584" y="140"><tspan fill="#ff7b72">String</tspan> site = <tspan fill="#a5d6ff">"chris-duarte.com"</tspan>;</text>
     <text x="584" y="170"><tspan fill="#ff7b72">String[]</tspan> langs = {</text>
-    <text x="608" y="200"><tspan fill="#a5d6ff">"java"</tspan>, <tspan fill="#a5d6ff">"python"</tspan>, <tspan fill="#a5d6ff">"js"</tspan></text>
+    <text x="608" y="200"><tspan fill="#a5d6ff">"java"</tspan>, <tspan fill="#a5d6ff">"python"</tspan>, <tspan fill="#a5d6ff">"html"</tspan></text>
     <text x="584" y="230">};</text>
     <text x="560" y="260">}</text>
   </g>
