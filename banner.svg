@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#3fb950"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#21262d" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="300" rx="14" fill="url(#bg)"/>
+  <rect width="1000" height="300" rx="14" fill="url(#grid)" opacity="0.6"/>
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#e6edf3">
+    <text x="70" y="140" font-size="78">Chris</text>
+    <text x="70" y="225" font-size="78">the coder<tspan fill="url(#accent)">_</tspan></text>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#8b949e">
+    <text x="560" y="110"><tspan fill="#ff7b72">class</tspan> <tspan fill="#d2a8ff">Chris</tspan> {</text>
+    <text x="584" y="140"><tspan fill="#ff7b72">String</tspan> site = <tspan fill="#a5d6ff">"chris-duarte.com"</tspan>;</text>
+    <text x="584" y="170"><tspan fill="#ff7b72">String[]</tspan> langs = {</text>
+    <text x="608" y="200"><tspan fill="#a5d6ff">"java"</tspan>, <tspan fill="#a5d6ff">"python"</tspan>, <tspan fill="#a5d6ff">"js"</tspan></text>
+    <text x="584" y="230">};</text>
+    <text x="560" y="260">}</text>
+  </g>
+  <rect x="70" y="250" width="120" height="4" rx="2" fill="url(#accent)"/>
+</svg>
