@@ -6,7 +6,7 @@
 
 Computer science student building things for the web and learning how software works from the ground up. Studying Leaving Cert Computer Science: algorithms, computational thinking, data, and embedded systems.
 
-🌐 [chris-duarte.com](https://chris-duarte.com) • ✉️ [chris@chris-duarte.com](mailto:chris@chris-duarte.com)
+🌐 [chris-duarte.com](https://chris-duarte.com) • ✉️ [chris@chris-duarte.com](mailto:chris@chris-duarte.com) • 💼 [linkedin](https://www.linkedin.com/in/chr1sduarte)
 
 ---
 
