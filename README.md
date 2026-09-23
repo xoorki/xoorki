@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Chris the coder" width="100%"/>
+  <img src="./banner.svg" alt="Chris" width="100%"/>
 </p>
 
 ### about
