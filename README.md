@@ -26,5 +26,5 @@ Computer science student building things for the web and learning how software w
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xoorki&theme=github-compact&hide_border=true&bg_color=0d1117" alt="contribution graph" width="100%"/>
+  <img src="./graph.svg" alt="contribution graph" width="100%"/>
 </p>
