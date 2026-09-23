@@ -18,6 +18,7 @@ Building things for the web and learning how software works from the ground up. 
 
 - **languages:** python • java (learning) • html
 - **algorithms:** searching & sorting • computational thinking
+- **embedded systems:** sensors • inputs & outputs
 - **tools:** github • github pages • cloudflare
 
 ---
