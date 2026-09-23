@@ -13,13 +13,16 @@ Building things for the web and learning how software works from the ground up. 
 ### core skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,html,linux,docker,github&theme=dark" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=py,java,html,linux,arch,docker,github&theme=dark" alt="skills"/>
 </p>
 
-- **languages:** python • java (learning) • html
-- **algorithms:** searching & sorting • computational thinking
+- **languages:** python • java • html
+- **programming:** object-oriented programming • program design • algorithms • searching & sorting • computational thinking
+- **networking:** tcp/ip • osi model • ip addressing & subnetting • routing & switching • wireguard vpn
+- **systems:** linux & windows administration • command line • pc hardware & troubleshooting • virtualisation (vmware)
+- **homelab:** docker • pi-hole • jellyfin • self-hosting • dns & domains
 - **embedded systems:** micro:bit • sensors • inputs & outputs
-- **homelab:** linux • docker • self-hosting • networking • dns & domains
+- **maths for it:** binary & hexadecimal • boolean logic
 - **tools:** github • github pages • cloudflare
 
 ---
