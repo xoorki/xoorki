@@ -6,7 +6,7 @@
 
 Building things for the web and learning how software works from the ground up. Completed Leaving Cert Computer Science, currently learning Java.
 
-🌐 [chris-duarte.com](https://chris-duarte.com) • ✉️ [chris@chris-duarte.com](mailto:chris@chris-duarte.com) • 💼 [linkedin](https://www.linkedin.com/in/chr1sduarte)
+🌐 [chris-duarte.com](https://chris-duarte.com) • ✉️ [cs@chris-duarte.com](mailto:cs@chris-duarte.com) • 💼 [linkedin](https://www.linkedin.com/in/chr1sduarte)
 
 ---
 
